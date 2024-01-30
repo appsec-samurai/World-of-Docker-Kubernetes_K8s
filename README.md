@@ -226,6 +226,7 @@ docker inspect container
 Example:
 appsec-samurai@Torpedo:~$ docker inspect 62ae76de85c7
 ```
+  **[⬆ Back to Top](#table-of-contents)**
 
 ### Networks
 
@@ -294,6 +295,8 @@ docker network inspect networkname
 Example:
 docker network inspect bridge
 ```
+  **[⬆ Back to Top](#table-of-contents)**
+
 ### Cleanup commands
 
 You may need to cleanup resources (containers, volumes, images, networks) regularly.
